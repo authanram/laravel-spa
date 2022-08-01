@@ -21,7 +21,8 @@
         "pestphp/pest-plugin-laravel": "^1.2",
         "phpunit/phpunit": "^9.5.10",
         "roave/security-advisories": "dev-latest",
-        "spatie/laravel-ignition": "^1.0"
+        "spatie/laravel-ignition": "^1.0",
+        "spatie/pest-plugin-snapshots": "^1.1"
     },
     "autoload": {
         "psr-4": {
