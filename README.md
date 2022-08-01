@@ -1,6 +1,6 @@
 # authanram/laravel-spa
 
-<!--[![CI](https://github.com/authanram/laravel-spa/actions/workflows/main.yml/badge.svg)](https://github.com/authanram/laravel-spa/actions/workflows/main.yml)-->
+[![CI](https://github.com/authanram/laravel-spa/actions/workflows/main.yml/badge.svg)](https://github.com/authanram/laravel-spa/actions/workflows/main.yml)
 
 *DESCRIPTION HERE*
 
@@ -17,6 +17,10 @@ You can install the package via composer.
 ```shell
 composer require authanram/laravel-spa
 ```
+
+## Usage
+
+*USAGE EXAMPLE HERE*
 
 ## Contributing
 

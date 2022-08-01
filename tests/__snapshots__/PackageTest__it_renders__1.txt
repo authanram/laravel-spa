@@ -1,0 +1,17 @@
+<div class="spa-page">
+        <div class="spa-header">
+        Prepend
+                            <div class="spa-brand">
+                Brand
+            </div>
+                        <div class="spa-navigation">
+                <a class="spa-anchor" href="#foox">Foox</a>
+    <a class="spa-anchor" href="#quux">Quux</a>
+        </div>
+        Append
+    </div>
+        <div class="spa-content">
+        <div class="spa-section" id="foox" style="height:768px">this is foox</div>
+        <div class="spa-section" id="quux" style="height:768px">this is quux</div>
+    </div>
+</div>
