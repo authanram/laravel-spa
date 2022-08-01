@@ -2,17 +2,17 @@
 
 declare(strict_types=1);
 
-namespace Authanram\LaravelSite;
+namespace Authanram\LaravelSpa;
 
 use Illuminate\Support\ServiceProvider;
 
-final class LaravelSiteServiceProvider extends ServiceProvider
+final class LaravelSpaServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
         $this->mergeConfigFrom(
-            __DIR__.'/../config/laravel-site.php',
-            'laravel-site',
+            __DIR__.'/../config/laravel-spa.php',
+            'laravel-spa',
         );
     }
 }

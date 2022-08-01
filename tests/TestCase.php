@@ -2,16 +2,16 @@
 
 declare(strict_types=1);
 
-namespace Authanram\LaravelSite\Tests;
+namespace Authanram\LaravelSpa\Tests;
 
-use Authanram\LaravelSite\LaravelSiteServiceProvider;
+use Authanram\LaravelSpa\LaravelSpaServiceProvider;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase
 {
     protected function getPackageProviders($app): array
     {
         return [
-            LaravelSiteServiceProvider::class,
+            LaravelSpaServiceProvider::class,
         ];
     }
 }

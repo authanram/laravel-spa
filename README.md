@@ -1,6 +1,6 @@
-# authanram/laravel-site
+# authanram/laravel-spa
 
-<!--[![CI](https://github.com/authanram/laravel-site/actions/workflows/main.yml/badge.svg)](https://github.com/authanram/laravel-site/actions/workflows/main.yml)-->
+<!--[![CI](https://github.com/authanram/laravel-spa/actions/workflows/main.yml/badge.svg)](https://github.com/authanram/laravel-spa/actions/workflows/main.yml)-->
 
 *DESCRIPTION HERE*
 
@@ -15,25 +15,25 @@ _Downward compatibility is already at the doorstep._
 You can install the package via composer.
 
 ```shell
-composer require authanram/laravel-site
+composer require authanram/laravel-spa
 ```
 
 ## Contributing
 
-Please see the [contribution guide](https://github.com/authanram/laravel-site/blob/master/.github/CONTRIBUTING.md)
+Please see the [contribution guide](https://github.com/authanram/laravel-spa/blob/master/.github/CONTRIBUTING.md)
 for details.
 
 ## Security Vulnerabilities
 
-Please review [our security policy](https://github.com/authanram/laravel-site/security/policy)
+Please review [our security policy](https://github.com/authanram/laravel-spa/security/policy)
 on how to report security vulnerabilities.
 
 ## Credits
 
 - [Daniel Seuffer](https://github.com/authanram)
-- [and Contributors](https://github.com/authanram/laravel-site/graphs/contributors) &nbsp;❤️
+- [and Contributors](https://github.com/authanram/laravel-spa/graphs/contributors) &nbsp;❤️
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/authanram/laravel-site/blob/master/LICENSE.md)
+The MIT License (MIT). Please see [License File](https://github.com/authanram/laravel-spa/blob/master/LICENSE.md)
 for more information.

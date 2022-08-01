@@ -1,11 +1,11 @@
 {
-    "name": "authanram/laravel-site",
+    "name": "authanram/laravel-spa",
     "type": "package",
     "description": "...",
     "keywords": [
         "authanram",
         "laravel",
-        "site"
+        "spa"
     ],
     "license": "MIT",
     "homepage": "https://authanram.com",
@@ -25,18 +25,18 @@
     },
     "autoload": {
         "psr-4": {
-            "Authanram\\LaravelSite\\": "src/"
+            "Authanram\\LaravelSpa\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Authanram\\LaravelSite\\Tests\\": "tests/"
+            "Authanram\\LaravelSpa\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-              "Authanram\\LaravelSite\\LaravelSiteServiceProvider"
+              "Authanram\\LaravelSpa\\LaravelSpaServiceProvider"
             ]
         }
     },
